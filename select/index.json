@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Got Boost？",
+  "base_artist": "FANTASTICS from EXILE TRIBE",
+  "createdAt": "2026-01-09T18:21:04.420415Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Got Boost？ TV size（『仮面ライダーガヴ』主題歌）",
+      "artist": "FANTASTICS from EXILE TRIBE",
+      "has_synced": true,
+      "path": "select/01_Got_Boost__TV_size(『仮面ライダーガヴ』主題歌)_FANTASTICS_from_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Got Boost？ TV size（『仮面ライダーガヴ』主題歌） - Got Boost？ TV size Theme of KAMEN RIDER GAVV",
+      "artist": "FANTASTICS from EXILE TRIBE",
+      "has_synced": true,
+      "path": "select/02_Got_Boost__TV_size(『仮面ライダーガヴ』主題歌)_-_Got_Boost__TV_size_Theme_of_KAMEN_RIDER_GAVV_FANTASTICS_from_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Got Boost？",
+      "artist": "FANTASTICS from EXILE TRIBE",
+      "has_synced": true,
+      "path": "select/03_Got_Boost_FANTASTICS_from_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Got Boost？",
+      "artist": "FANTASTICS from EXILE TRIBE",
+      "has_synced": true,
+      "path": "select/04_Got_Boost_FANTASTICS_from_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Got Boost?",
+      "artist": "FANTASTICS",
+      "has_synced": false,
+      "path": "select/pl_01_Got_Boost_FANTASTICS.txt"
+    }
+  ]
+}
